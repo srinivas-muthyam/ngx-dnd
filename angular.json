@@ -60,7 +60,7 @@
               "remark-math",
               "remark-html-katex",
               "vfile",
-              "@swimlane/dragula"
+              "@ngx-elements/dragula"
             ]
           },
           "configurations": {
@@ -147,5 +147,8 @@
       }
     }
   },
-  "defaultProject": "ngx-dnd"
+  "defaultProject": "ngx-dnd",
+  "cli": {
+    "analytics": false
+  }
 }

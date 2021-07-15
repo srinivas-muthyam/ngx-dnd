@@ -1,6 +1,6 @@
 {
   "name": "ngx-dnd",
-  "version": "9.0.0",
+  "version": "9.0.1",
   "description": "Drag and Drop for Angular2 and beyond!",
   "scripts": {
     "ng": "ng",
@@ -54,7 +54,7 @@
     "@stackblitz/sdk": "^1.2.0",
     "@swimlane/docspa-core": "^6.0.0",
     "@swimlane/docspa-remark-preset": "^6.0.0",
-    "@swimlane/dragula": "^3.8.0",
+    "@ngx-elements/dragula": "3.9.1",
     "@types/dragula": "^2.1.33",
     "@ungap/global-this": "^0.3.1",
     "@webcomponents/custom-elements": "^1.4.1",

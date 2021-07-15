@@ -24,6 +24,6 @@ declare module '*.html' {
   export default value;
 }
 
-declare module '@swimlane/dragula' {
+declare module '@ngx-elements/dragula' {
   export = dragula;
 }
